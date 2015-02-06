@@ -1,0 +1,274 @@
+body
+{
+background-color:#3fd8c5;
+}
+.one1 {
+  position: absolute;
+margin: 12% 0% 0% 7%;
+width: 16%;
+-webkit-transform: rotate(150deg);
+-moz-transform: rotate(150deg);
+-ms-transform: rotate(150deg);
+-o-transform: rotate(150deg);
+}
+.two1 {
+  position: absolute;
+margin: 12% 0% 0% 21%;
+width: 16%;
+-webkit-transform: rotate(30deg);
+-moz-transform: rotate(30deg);
+-ms-transform: rotate(30deg);
+-o-transform: rotate(30deg);
+}
+.three1 {
+  position: absolute;
+margin: 24% 0% 0% 28%;
+width: 16%;
+-webkit-transform: rotate(90deg);
+-moz-transform: rotate(90deg);
+-ms-transform: rotate(90deg);
+-o-transform: rotate(90deg);
+}
+.four1 {
+  position: absolute;
+margin: 36% 0% 0% 21%;
+width: 16%;
+-webkit-transform: rotate(150deg);
+-moz-transform: rotate(150deg);
+-ms-transform: rotate(150deg);
+-o-transform: rotate(150deg);
+}
+.five1 {
+   position: absolute;
+margin: 36% 0% 0% 7%;
+width: 16%;
+-webkit-transform: rotate(30deg);
+-moz-transform: rotate(30deg);
+-ms-transform: rotate(30deg);
+-o-transform: rotate(30deg);
+}
+.six1 { 
+  position: absolute;
+margin: 24% 0% 0% 0%;
+width: 16%;
+-webkit-transform: rotate(90deg);
+-moz-transform: rotate(90deg);
+-ms-transform: rotate(90deg);
+-o-transform: rotate(90deg);
+}
+.one2 {
+  position: absolute;
+margin: 12% 0% 0% 61.5%;
+width: 16%;
+-webkit-transform: rotate(150deg);
+-moz-transform: rotate(150deg);
+-ms-transform: rotate(150deg);
+-o-transform: rotate(150deg);
+}
+.two2 {
+  position: absolute;
+margin: 12% 0% 0% 75.5%;
+width: 16%;
+-webkit-transform: rotate(30deg);
+-moz-transform: rotate(30deg);
+-ms-transform: rotate(30deg);
+-o-transform: rotate(30deg);
+}
+.three2 {
+  position: absolute;
+margin: 24% 0% 0% 82.5%;
+width: 16%;
+-webkit-transform: rotate(90deg);
+-moz-transform: rotate(90deg);
+-ms-transform: rotate(90deg);
+-o-transform: rotate(90deg);
+}
+.four2 {
+  position: absolute;
+margin: 36% 0% 0% 75.5%;
+width: 16%;
+-webkit-transform: rotate(150deg);
+-moz-transform: rotate(150deg);
+-ms-transform: rotate(150deg);
+-o-transform: rotate(150deg);
+}
+.five2 {
+   position: absolute;
+margin: 36% 0% 0% 61.5%;
+width: 16%;
+-webkit-transform: rotate(30deg);
+-moz-transform: rotate(30deg);
+-ms-transform: rotate(30deg);
+-o-transform: rotate(30deg);
+}
+.six2 { 
+  position: absolute;
+margin: 24% 0% 70% 54.5%;
+width: 16%;
+-webkit-transform: rotate(90deg);
+-moz-transform: rotate(90deg);
+-ms-transform: rotate(90deg);
+-o-transform: rotate(90deg);
+}
+.one3 {
+  position: absolute;
+margin: 42% 0% 0% 34.25%;
+width: 16%;
+-webkit-transform: rotate(150deg);
+-moz-transform: rotate(150deg);
+-ms-transform: rotate(150deg);
+-o-transform: rotate(150deg);
+}
+.two3 {
+  position: absolute;
+margin: 42% 0% 0% 48.25%;
+width: 16%;
+-webkit-transform: rotate(30deg);
+-moz-transform: rotate(30deg);
+-ms-transform: rotate(30deg);
+-o-transform: rotate(30deg);
+}
+.three3 {
+  position: absolute;
+margin: 54% 0% 0% 55.25%;
+width: 16%;
+-webkit-transform: rotate(90deg);
+-moz-transform: rotate(90deg);
+-ms-transform: rotate(90deg);
+-o-transform: rotate(90deg);
+}
+.four3 {
+  position: absolute;
+margin: 66% 0% 0% 48.25%;
+width: 16%;
+-webkit-transform: rotate(150deg);
+-moz-transform: rotate(150deg);
+-ms-transform: rotate(150deg);
+-o-transform: rotate(150deg);
+}
+.five3 {
+   position: absolute;
+margin: 66% 0% 0% 34.25%;
+width: 16%;
+-webkit-transform: rotate(30deg);
+-moz-transform: rotate(30deg);
+-ms-transform: rotate(30deg);
+-o-transform: rotate(30deg);
+}
+.six3 { 
+  position: absolute;
+margin: 54% 0% 70% 27.25%;
+width: 16%;
+-webkit-transform: rotate(90deg);
+-moz-transform: rotate(90deg);
+-ms-transform: rotate(90deg);
+-o-transform: rotate(90deg);
+}
+.one4 {
+  position: absolute;
+margin: 72% 0% 0% 7%;
+width: 16%;
+-webkit-transform: rotate(150deg);
+-moz-transform: rotate(150deg);
+-ms-transform: rotate(150deg);
+-o-transform: rotate(150deg);
+}
+.two4 {
+  position: absolute;
+margin: 72% 0% 0% 21%;
+width: 16%;
+-webkit-transform: rotate(30deg);
+-moz-transform: rotate(30deg);
+-ms-transform: rotate(30deg);
+-o-transform: rotate(30deg);
+}
+.three4 {
+  position: absolute;
+margin: 84% 0% 0% 28%;
+width: 16%;
+-webkit-transform: rotate(90deg);
+-moz-transform: rotate(90deg);
+-ms-transform: rotate(90deg);
+-o-transform: rotate(90deg);
+}
+.four4 {
+  position: absolute;
+margin: 96% 0% 0% 21%;
+width: 16%;
+-webkit-transform: rotate(150deg);
+-moz-transform: rotate(150deg);
+-ms-transform: rotate(150deg);
+-o-transform: rotate(150deg);
+}
+.five4 {
+   position: absolute;
+margin: 96% 0% 0% 7%;
+width: 16%;
+-webkit-transform: rotate(30deg);
+-moz-transform: rotate(30deg);
+-ms-transform: rotate(30deg);
+-o-transform: rotate(30deg);
+}
+.six4 { 
+  position: absolute;
+margin: 84% 0% 0% 0%;
+width: 16%;
+-webkit-transform: rotate(90deg);
+-moz-transform: rotate(90deg);
+-ms-transform: rotate(90deg);
+-o-transform: rotate(90deg);
+}
+.one5 {
+  position: absolute;
+margin: 72% 0% 0% 61.5%;
+width: 16%;
+-webkit-transform: rotate(150deg);
+-moz-transform: rotate(150deg);
+-ms-transform: rotate(150deg);
+-o-transform: rotate(150deg);
+}
+.two5 {
+  position: absolute;
+margin: 72% 0% 0% 75.5%;
+width: 16%;
+-webkit-transform: rotate(30deg);
+-moz-transform: rotate(30deg);
+-ms-transform: rotate(30deg);
+-o-transform: rotate(30deg);
+}
+.three5 {
+  position: absolute;
+margin: 84% 0% 0% 82.5%;
+width: 16%;
+-webkit-transform: rotate(90deg);
+-moz-transform: rotate(90deg);
+-ms-transform: rotate(90deg);
+-o-transform: rotate(90deg);
+}
+.four5 {
+  position: absolute;
+margin: 96% 0% 0% 75.5%;
+width: 16%;
+-webkit-transform: rotate(150deg);
+-moz-transform: rotate(150deg);
+-ms-transform: rotate(150deg);
+-o-transform: rotate(150deg);
+}
+.five5 {
+   position: absolute;
+margin: 96% 0% 0% 61.5%;
+width: 16%;
+-webkit-transform: rotate(30deg);
+-moz-transform: rotate(30deg);
+-ms-transform: rotate(30deg);
+-o-transform: rotate(30deg);
+}
+.six5 { 
+  position: absolute;
+margin: 84% 0% 70% 54.5%;
+width: 16%;
+-webkit-transform: rotate(90deg);
+-moz-transform: rotate(90deg);
+-ms-transform: rotate(90deg);
+-o-transform: rotate(90deg);
+}
