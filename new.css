@@ -1,0 +1,100 @@
+//RESET CSS
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    line-height: 1;
+}
+ol, ul {
+    list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+//
+
+//CODE
+
+.container{
+  width: 100%;
+  position: absolute;
+  top: 0;
+  text-align: center;
+}
+.header{
+  width: 100%;
+  background-color: #efeff0;
+}
+
+.header .button-nav{
+  display: inline-block;
+  width: 33%;
+  text-align: center;
+  padding: 40px 0px 8px 0px;
+}
+.header span.back{
+  color:#0066F1;
+  float: left;
+  text-align: left;
+  font-weight:normal;
+ }
+.header span.add{
+  color:#0066F1;
+    float: right;
+  text-align: right;
+}
+.header span.name{
+  font-weight:bolder;
+}
+.header span{
+  font-size:24px;
+}
+.content{
+width: 100%;
+text-align:center;
+}
+input{
+  border-style:groove;
+  border-radius:8px;
+  height: 36px;
+}
+.content .name{
+padding: 16px 40px 12px 40px;
+}
+.content .property{
+padding: 0px 40px 12px 40px;
+}
+input{
+ width: 100%;
+}
